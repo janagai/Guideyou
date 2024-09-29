@@ -1,11 +1,6 @@
 import 'package:flutter/material.dart';
 //import 'dart:math' as math;
-import 'package:guideyou/login.dart';
-import 'package:guideyou/signup.dart';
-import 'package:guideyou/launch_screen.dart';
-import 'package:guideyou/favorites.dart';
-import 'package:guideyou/new_post.dart';
-import 'package:guideyou/home_page/home_activities.dart';
+import 'app_export.dart';
 
 
 
